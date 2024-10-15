@@ -1,0 +1,3 @@
+/home/antonio/Documents/cpp/ScreenRecorder/build/CMakeFiles/SRRIS.dir
+/home/antonio/Documents/cpp/ScreenRecorder/build/CMakeFiles/edit_cache.dir
+/home/antonio/Documents/cpp/ScreenRecorder/build/CMakeFiles/rebuild_cache.dir
